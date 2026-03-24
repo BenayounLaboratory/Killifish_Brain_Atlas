@@ -1,0 +1,35 @@
+R version 4.3.1 (2023-06-16)
+Platform: x86_64-apple-darwin20 (64-bit)
+Running under: macOS Ventura 13.4.1
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.3-x86_64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/Los_Angeles
+tzcode source: internal
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] openxlsx_4.2.5.2      circlize_0.4.15       ComplexHeatmap_2.16.0 data.table_1.14.8     Vennerable_3.1.0.9000 bitops_1.0-7          scales_1.3.0         
+[8] ggplot2_3.5.1         mitch_1.12.0         
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.2.0    viridisLite_0.4.2   dplyr_1.1.4         fastmap_1.1.1       reshape_0.8.9       GGally_2.1.2        promises_1.2.0.1   
+ [8] digest_0.6.33       mime_0.12           lifecycle_1.0.3     cluster_2.1.6       Cairo_1.6-0         ellipsis_0.3.2      magrittr_2.0.3     
+[15] compiler_4.3.3      rlang_1.1.4         tools_4.3.3         utf8_1.2.3          knitr_1.43          htmlwidgets_1.6.2   plyr_1.8.9         
+[22] xml2_1.3.5          RColorBrewer_1.1-3  KernSmooth_2.23-22  withr_2.5.0         BiocGenerics_0.46.0 stats4_4.3.3        fansi_1.0.4        
+[29] caTools_1.18.2      xtable_1.8-4        colorspace_2.1-0    gtools_3.9.4        iterators_1.0.14    MASS_7.3-60.0.1     cli_3.6.3          
+[36] rmarkdown_2.23      crayon_1.5.2        generics_0.1.3      rstudioapi_0.15.0   httr_1.4.6          reshape2_1.4.4      rjson_0.2.21       
+[43] stringr_1.5.0       rvest_1.0.3         parallel_4.3.3      matrixStats_1.0.0   vctrs_0.6.5         webshot_0.5.5       echarts4r_0.4.5    
+[50] IRanges_2.34.1      GetoptLong_1.0.5    S4Vectors_0.38.1    RBGL_1.76.0         clue_0.3-64         beeswarm_0.4.0      magick_2.7.4       
+[57] systemfonts_1.2.3   foreach_1.5.2       glue_1.8.0          codetools_0.2-19    stringi_1.7.12      gtable_0.3.3        shape_1.4.6        
+[64] later_1.3.1         munsell_0.5.0       tibble_3.2.1        pillar_1.9.0        htmltools_0.5.5     gplots_3.2.0        graph_1.78.0       
+[71] R6_2.5.1            doParallel_1.0.17   evaluate_0.21       shiny_1.7.4.1       kableExtra_1.3.4    lattice_0.22-5      png_0.1-8          
+[78] httpuv_1.6.11       zip_2.3.0           Rcpp_1.0.11         svglite_2.1.1       gridExtra_2.3       xfun_0.39           pkgconfig_2.0.3    
+[85] GlobalOptions_0.1.2

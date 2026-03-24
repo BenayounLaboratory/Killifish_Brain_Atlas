@@ -1,0 +1,9 @@
+annotatePeaks.pl 2024-06-24_PV_interneurons_peaks.bed                Killi2015g > HOMER_2024-06-24_PV_interneurons_peaks.xls  
+annotatePeaks.pl 2024-06-24_Astrocytes_Radial_Glia_peaks.bed         Killi2015g > HOMER_2024-06-24_Astrocytes_Radial_Glia_peaks.xls  
+annotatePeaks.pl 2024-06-24_Ependymal_cells_peaks.bed                Killi2015g > HOMER_2024-06-24_Ependymal_cells_peaks.xls  
+annotatePeaks.pl 2024-06-24_GABAergic_neurons_peaks.bed              Killi2015g > HOMER_2024-06-24_GABAergic_neurons_peaks.xls  
+annotatePeaks.pl 2024-06-24_Granule_Excitatory_Neurons_peaks.bed     Killi2015g > HOMER_2024-06-24_Granule_Excitatory_Neurons_peaks.xls  
+annotatePeaks.pl 2024-06-24_Microglia_peaks.bed                      Killi2015g > HOMER_2024-06-24_Microglia_peaks.xls  
+annotatePeaks.pl 2024-06-24_NSPCs_peaks.bed                          Killi2015g > HOMER_2024-06-24_NSPCs_peaks.xls  
+annotatePeaks.pl 2024-06-24_Oligodendrocytes_peaks.bed               Killi2015g > HOMER_2024-06-24_Oligodendrocytes_peaks.xls  
+annotatePeaks.pl 2024-06-24_OPCs_peaks.bed                           Killi2015g > HOMER_2024-06-24_OPCs_peaks.xls  
