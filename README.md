@@ -19,4 +19,3 @@ This code is arranged into thematic subfolders:
 	- 7_Functional_enrichment_Analyses
 	- 8_TF_activity_conservation
 	- 9_Mifepristone_intervention
-	- 10_Microscopy_data_analysis
