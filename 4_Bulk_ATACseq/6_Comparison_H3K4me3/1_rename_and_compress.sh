@@ -1,0 +1,4 @@
+mv SRR1556403.fastq SRR1556403_GRZ_YM_Brain_H3K4me3_ChIPseq.fastq
+mv SRR1556404.fastq SRR1556404_GRZ_YM_Brain_Input.fastq
+
+gzip *fastq

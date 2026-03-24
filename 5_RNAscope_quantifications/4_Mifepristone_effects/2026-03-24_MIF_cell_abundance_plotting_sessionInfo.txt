@@ -1,0 +1,28 @@
+R version 4.3.1 (2023-06-16)
+Platform: x86_64-apple-darwin20 (64-bit)
+Running under: macOS Ventura 13.4.1
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.3-x86_64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/Los_Angeles
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] scales_1.3.0   ARTool_0.11.1  outliers_0.15  beeswarm_0.4.0 readxl_1.4.3  
+
+loaded via a namespace (and not attached):
+ [1] Matrix_1.6-5      dplyr_1.1.4       compiler_4.3.3    Rcpp_1.0.11       tidyselect_1.2.0  splines_4.3.3     boot_1.3-30      
+ [8] lattice_0.22-5    coda_0.19-4       TH.data_1.1-2     plyr_1.8.9        R6_2.5.1          generics_0.1.3    Formula_1.2-5    
+[15] MASS_7.3-60.0.1   tibble_3.2.1      nloptr_2.0.3      car_3.1-3         munsell_0.5.0     minqa_1.2.5       pillar_1.9.0     
+[22] rlang_1.1.4       utf8_1.2.3        multcomp_1.4-26   estimability_1.5  cli_3.6.3         magrittr_2.0.3    emmeans_1.10.0   
+[29] grid_4.3.3        xtable_1.8-4      rstudioapi_0.15.0 mvtnorm_1.2-2     lme4_1.1-35.3     sandwich_3.0-2    nlme_3.1-164     
+[36] lifecycle_1.0.3   vctrs_0.6.5       glue_1.8.0        cellranger_1.1.0  codetools_0.2-19  zoo_1.8-12        survival_3.7-0   
+[43] abind_1.4-5       colorspace_2.1-0  carData_3.0-5     fansi_1.0.4       tools_4.3.3       pkgconfig_2.0.3  

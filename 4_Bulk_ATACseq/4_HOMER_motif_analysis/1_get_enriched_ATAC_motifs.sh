@@ -1,0 +1,4 @@
+findMotifsGenome.pl 2024-04-09_GRZ_brain_Aging_ATAC_DESeq2_Analysis_AGING_FDR5_DWN_with_Age.bed Killi2015 Killi_Brain_Aging_GRZ_DOWN -size given -mset vertebrates -bg 2024-04-09_GRZ_brain_Aging_ATAC_DESeq2_Analysis_AGING_Background.bed
+findMotifsGenome.pl 2024-04-09_GRZ_brain_Aging_ATAC_DESeq2_Analysis_AGING_FDR5_UP_with_Age.bed  Killi2015 Killi_Brain_Aging_GRZ_UP   -size given -mset vertebrates -bg 2024-04-09_GRZ_brain_Aging_ATAC_DESeq2_Analysis_AGING_Background.bed
+findMotifsGenome.pl 2024-04-09_ZMZ_brain_Aging_ATAC_DESeq2_Analysis_AGING_FDR5_DWN_with_Age.bed Killi2015 Killi_Brain_Aging_ZMZ_DOWN -size given -mset vertebrates -bg 2024-04-09_ZMZ_brain_Aging_ATAC_DESeq2_Analysis_AGING_Background.bed
+findMotifsGenome.pl 2024-04-09_ZMZ_brain_Aging_ATAC_DESeq2_Analysis_AGING_FDR5_UP_with_Age.bed  Killi2015 Killi_Brain_Aging_ZMZ_UP   -size given -mset vertebrates -bg 2024-04-09_ZMZ_brain_Aging_ATAC_DESeq2_Analysis_AGING_Background.bed
